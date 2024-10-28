@@ -1,11 +1,11 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Rachel Darlinger
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://rdarlinger.github.io/phys601_website_test/ # must have the trailing slash
+site_author: Rachel Darlinger (stephan.obrien@mcgill.ca)
+site_description: Research site for Rachel Darlinger 
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2023 Rachel Darlinger <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
@@ -19,7 +19,7 @@ theme:
         # Color of the top bar
         primary: deep purple
         # Link highlight color
-        accent : orange
+        accent : cyan
         
         toggle:
           icon: material/brightness-7 
@@ -58,7 +58,7 @@ nav:
   - Home: index.md
   - About Me: about/index.md
   - Research: reasearch/index.md
-  - Projects: projects/index.md
+  - Outreach: outreach/index.md
 
 # Extensions that we want to use
 markdown_extensions:

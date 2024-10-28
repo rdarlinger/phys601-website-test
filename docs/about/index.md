@@ -1,21 +1,20 @@
-# Introduction
+## Introduction
 
-Dr. Lisa Simpson is an accomplished astrophysicist whose passion for unraveling the mysteries of the cosmos has driven her academic journey. She earned her Bachelor's degree in Physics with honors from Celestial University, where her early fascination with astrophysics blossomed. Embarking on the pursuit of advanced knowledge, she continued her education at Stellar Institute, obtaining a Master's degree in Astrophysical Sciences with a focus on high-energy astrophysics.
+I am a developing astrophysicist, just starting my exploration of the cosmos. I got my Bachelor's degree in Physics with an astrophysics concentration in 3 years with honors and distinction in the major from the University of California Santa Barbara. I am currently in the Master's program at McGill University for radio astronomy. 
 
-Dr. Simpson's scholarly journey reached its zenith at Galactic University, where she completed her Ph.D. in Astrophysics. Her doctoral research centered on the Crab Nebula, an iconic celestial object known for its dynamic behavior. With a keen interest in both observational and theoretical aspects of astrophysics, Dr. Simpson utilized cutting-edge technology and advanced computational models to deepen our understanding of the processes at play within the Crab Nebula.
+I grew up in the Chicago area and decided at a young age that I wanted to do some sort of science, even though at the time I thought I wanted to be a veternarian. It wasn't until high school in the astronomy competition for Science Olympiad that I found I wanted to know everything I could about the universe and I loved looking beyond Earth. 
 
-Throughout her academic career, Dr. Simpson has contributed to numerous publications in reputable astrophysical journals and has presented her findings at international conferences. She is recognized for her meticulous research methodologies and her commitment to advancing our understanding of the universe. As a dedicated educator, Dr. Simpson has also mentored aspiring astrophysicists, fostering the next generation's curiosity and passion for the cosmos.
+During my undergraduate education, I worked as a tutor. This fostered my desire to teach and help other people understand more about our world and beyond. I hope to continue to teach as a TA and hopefully one day as a professor. I also took part in a mentoring program that was the best thing I decided to do while I was there. This is very important to me and I hope to help as many people as I can.
 
-Beyond the academic realm, Dr. Simpson is an avid stargazer and science communicator, regularly engaging with the public through lectures, workshops, and social media platforms. Her multifaceted approach to astrophysics encompasses both the pursuit of groundbreaking research and the dissemination of knowledge to a broader audience, embodying a commitment to bridging the gap between the mysteries of the universe and the curious minds seeking to explore them.
+As I get further into my career I hope to encourage young girls to pursue science and help communicate cutting edge science to the public. I hope to get involved in programs at McGill and elsewhere as I continue in my academic career. 
 
-# Other Interests
+## Other Interests
 
-- [Cooking](./cooking.md)
-- [Cycling](./cycling.md)
-- [Olympic Fishing](./fishing.md)
+- [Favorite Reads](./favorite reads.md)
+- [Kayaking](./kayaking.md)
+- [Equestrian](./equestrian.md)
 
-
-# CV
+## CV
 
 <!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/SWE_Resume_Template.pdf">
+<iframe width="100%" height="600" src="./media/General_CV-oct-4.pdf">

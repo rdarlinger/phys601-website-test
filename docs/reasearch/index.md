@@ -1,10 +1,12 @@
 # Research Interests
 
-Here is a paragraph explaining my research interests, the telescopes that I'm involved in or which I use. 
+During my undergraduate degree I worked on testing a machine learning algorithm for an optical transient pipeline. I am currently working in radio astronomy and Fast Radio Bursts (FRBs) as part of [Astroflash](https://astroflash-frb.github.io/) and the [CHIME](https://chime-experiment.ca/en) collaboration. 
+
+I hope to continue investigating and implementing machine learning in my research. I am interested in investigating signals that we do not understand the origin of (like FRBs). In general I am interested in transients, cosmology, and machine learning. 
 
 
 ## Recent Highlights
- - [Awesome Paper](./highlights/awesome_paper/index.md)
- - [Multiwavelength Paper](./highlights/large_mwl_paper/index.md)
+ - [Fake Paper](./highlights/fake_paper/index.md)
+ - [Bachelor's Thesis](./highlights/bach_thesis/index.md)
 
 A full list of publications can be found [here](./all_publications.md).
